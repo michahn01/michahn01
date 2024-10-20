@@ -22,13 +22,13 @@ I'm currently a student at the University of Michigan pursuing a degree in Compu
 - **MapReduce Framework:** In progress
 
 #### For Fun
-- **LimeCal (Meeting Scheduler):** [https://github.com/michahn01/LimeCal] - Schedule meetings with shareable links (Java, TypeScript).
-- **StudyCards (Study Tool):** [https://github.com/michahn01/study_web_app] - A digital flashcard app for studying and memorization (Python, JavaScript).
-- **Orbit Simulator:** [https://github.com/michahn01/nBodyGravitySim] - Newtonian gravity simulator for visualizing orbital mechanics (C++).
+- **[LimeCal](https://github.com/michahn01/LimeCal):** Schedule meetings with shareable links (Java, TypeScript).
+- **[StudyCards](https://github.com/michahn01/study_web_app):** A digital flashcard app for studying and memorization (Python, JavaScript).
+- **[Orbit Simulator](https://github.com/michahn01/nBodyGravitySim):** A toy Newtonian gravity simulator for visualizing planetary orbits (C++).
 
-### Additional Contact Info
+### Contact
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jisang-ahn/) or by email at [michahn@umich.edu]. I'm always open to discussing software development, tech careers, and anything else.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jisang-ahn/) or by email at [michahn@umich.edu](michahn@umich.edu). I'm always open to discussing software, tech, or anything else.
 
 
 <!--

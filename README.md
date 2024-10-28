@@ -19,7 +19,7 @@ I'm currently a student at the University of Michigan pursuing a degree in Compu
 
 #### 🌐 Web Systems
 - **Instagram Clone:** Client-side dynamic pages (JS), REST API (Python)
-- **MapReduce Framework:** In progress
+- **MapReduce Framework:** Distributed task scheduling, dynamic task reassignment on failure, TCP/UDP sockets
 
 #### 🎉 For Fun
 - **[LimeCal](https://github.com/michahn01/LimeCal):** Schedule meetings with shareable links (Java, TypeScript).

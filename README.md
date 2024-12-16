@@ -2,13 +2,13 @@
 
 ### 🚀 Introduction
 
-I'm currently a student at the University of Michigan pursuing a degree in Computer Science. I have a passion for building systems and solving complex technical challenges.
+I'm currently a student at the University of Michigan pursuing a degree in Computer Science. I enjoy building systems and solving complex technical challenges.
 
 ### 🎓 Education
 
 - **University:** University of Michigan
 - **Graduation Date:** May 2026
-- **Relevant Courses:** Operating Systems, Databases, Machine Learning, Web Systems, Computational Theory, Data Structures & Algorithms, Intro Computer Architecture, Probability, Linear Algebra, Discrete Math, Multivariable Calculus 
+- **Relevant Courses:** Operating Systems, Databases, Machine Learning, Web Systems, Computational Theory, Data Structures & Algorithms, Intro Computer Architecture, Probability, Linear Algebra, Discrete Math, Multivariable Calculus
 
 ### 💻 Some Projects
 
@@ -20,6 +20,7 @@ I'm currently a student at the University of Michigan pursuing a degree in Compu
 #### 🌐 Web Systems
 - **Instagram Clone:** Client-side dynamic pages (JS), REST API (Python)
 - **MapReduce Framework:** Distributed task scheduling, dynamic task reassignment on failure, TCP/UDP sockets
+- **Wikipedia Search Engine:** Search engine for a subset of Wikipedia pages, built with PageRank and tf-idf
 
 #### 🎉 For Fun
 - **[LimeCal](https://github.com/michahn01/LimeCal):** Schedule meetings with shareable links (Java, TypeScript).

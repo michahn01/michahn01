@@ -2,7 +2,7 @@
 
 ### 🚀 Introduction
 
-I'm currently a student at the University of Michigan pursuing a degree in Computer Science. I enjoy building systems and solving complex technical challenges.
+I'm currently an undergrad at the University of Michigan pursuing a degree in Computer Science. I enjoy building systems and solving complex technical challenges.
 
 ### 🎓 Education
 

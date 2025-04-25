@@ -8,9 +8,14 @@ I'm currently an undergrad at the University of Michigan pursuing a degree in Co
 
 - **University:** University of Michigan
 - **Graduation Date:** May 2026
-- **Relevant Courses:** Operating Systems, Databases, Machine Learning, Web Systems, Computational Theory, Data Structures & Algorithms, Intro Computer Architecture, Probability, Linear Algebra, Discrete Math, Multivariable Calculus
+- **Relevant Courses:** Operating Systems, Machine Learning, Compilers, Networks, Quantum Computing, Databases, Web Systems, Computational Theory, Data Structures & Algorithms, Intro Computer Architecture, Probability, Linear Algebra, Discrete Math, Multivariable Calculus
 
-### 💻 Some Projects
+### ⚡ SymbioticLab
+
+- Outside of classes, I contribute to [SymbioticLab](https://symbioticlab.org/), led by professor [Mosharaf Chowdhury](https://mosharaf.com/).
+- As part of SymbioticLab, I've been contributing to [Zeus](https://github.com/ml-energy/zeus), an open-source framework for deep-learning energy consumption created and led by [Jae-Won Chung](https://jaewonchung.me/about.html).
+
+### 💻 Class/Personal Projects
 
 #### ⚙️ OS
 - **Thread Library:** User-level thread library with multi-core execution, locks, condition variables
